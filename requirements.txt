@@ -1,0 +1,4 @@
+flet==1.1.2
+flet-desktop==1.1.2
+psutil>=5.9.8
+Pillow>=10.4.0
